@@ -36,7 +36,7 @@ const Section5 = () => {
         viewport={{ once: true, amount: 0.3 }}
       >
         <img
-          src="/public/pexels-brett-sayles-1021366.jpg"
+          src="/pexels-brett-sayles-1021366.jpg"
           alt="AI Weather Forecast"
           className="rounded-xl shadow-lg w-full h-auto object-cover"
         />

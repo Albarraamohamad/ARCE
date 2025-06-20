@@ -32,7 +32,7 @@ const Section2 = () => {
         viewport={{ once: true, amount: 0.3 }}
       >
         <img
-          src="/public/Who's afraid of yellow and blue_.jpeg"
+          src="/Who's afraid of yellow and blue_.jpeg"
           alt="AI-powered agriculture"
           className="w-full h-auto rounded-xl shadow-lg"
         />

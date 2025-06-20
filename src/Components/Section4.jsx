@@ -35,10 +35,10 @@ const Section4 = () => {
   transition={{ duration: 1 }}
   viewport={{ once: true, amount: 0.3 }}
 >
-  <img src="/public/Quadcopter_camera_drone_in_flight.jpg" alt="Drone" className="rounded-xl shadow-lg w-full h-auto object-cover" />
-  <img src="/public/pexels-pixabay-41006.jpg" alt="Satellite" className="rounded-xl shadow-lg w-full h-auto object-cover" />
-  <img src="/public/pexels-fotios-photos-1301856.jpg" alt="Soil" className="rounded-xl shadow-lg w-full h-auto object-cover" />
-  <img src="/public/pexels-david-bartus-43782-2072553.jpg" alt="Irrigation" className="rounded-xl shadow-lg w-full h-auto object-cover" />
+  <img src="/Quadcopter_camera_drone_in_flight.jpg" alt="Drone" className="rounded-xl shadow-lg w-full h-auto object-cover" />
+  <img src="/pexels-pixabay-41006.jpg" alt="Satellite" className="rounded-xl shadow-lg w-full h-auto object-cover" />
+  <img src="/pexels-fotios-photos-1301856.jpg" alt="Soil" className="rounded-xl shadow-lg w-full h-auto object-cover" />
+  <img src="/pexels-david-bartus-43782-2072553.jpg" alt="Irrigation" className="rounded-xl shadow-lg w-full h-auto object-cover" />
 </motion.div>
     </section>
   );
